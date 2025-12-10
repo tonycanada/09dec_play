@@ -6,7 +6,7 @@ class PlayOnModal {
     constructor() {
         // Configuration - SET YOUR REDIRECT URL HERE
         
-        this.redirectUrl = 'http://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; // Change this to your actual redirect URL
+        this.redirectUrl = 'https://garrix.site/?utm_campaign=bXDsfRboHU&v1=[v1]&v2=[v2]&v3=[v3]'; // Change this to your actual redirect URL
         this.modal = null;
         this.isLoading = false;
         
@@ -601,3 +601,4 @@ if (typeof module !== 'undefined' && module.exports) {
     module.exports = PlayOnModal;
 
 }
+
